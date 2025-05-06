@@ -1,0 +1,1 @@
+metro instance has period 150 and events with frequency 4, sync activities with differ 37, but 37*4=148 and not 150, so gives errors
