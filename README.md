@@ -1,1 +1,1 @@
-Code and test instances for solving the Multi-Period Periodic Event Scheduling Problem
+Code and test instances for solving the Multiperiodic Event Scheduling Problem
